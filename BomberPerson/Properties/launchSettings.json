@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BomberPerson": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Estudio\\source\\repos\\BomberPerson\\BomberPerson\\Assets"
+    }
+  }
+}
