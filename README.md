@@ -3,7 +3,7 @@ This is a modest BomberMan clone I made using SFML library. It's nothing fancy, 
 It was developed as an project for a C# programming course in about 3 weeks.
 
 The main challenging aspects where:
-  * Working outside a game engine was something I dearly missed. That meant having to make my own game loop or taking care of rendering.
+  * Working outside a game engine was something I dearly missed. That meant designing my own game loop or taking direct care of rendering.
   * Figuring how to work with a grid for the map and bombs/items spawning.
   * Getting right the capacity to walk on your own bombs just after you drop them, yet not after you walk past them.
 
