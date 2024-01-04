@@ -9,4 +9,6 @@ The main challenging aspects where:
 
 Though originally composed for another project, music is also my creation.
 
+It can only be played with two players on the same keboard, though it's designed to allow up to four players. An AI enemy as way out of scope for this project.
+
 I'm not sure if I even still remember how to make it run, but you can see a short gameplay here: https://youtu.be/QDdUwTdojY4
